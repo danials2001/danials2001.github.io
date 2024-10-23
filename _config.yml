@@ -24,11 +24,11 @@ author:
   avatar           : "Daniel-Lopez-bio.jpg"
   name             : "Daniel Lopez"
   pronouns         : "he/him"  
-  bio              : "1st year CS PhD at UC Santa Barbara \n BS Math & CS at UMD"
+  bio              : "1st year CS PhD at UC Santa Barbara"
   location         : "Santa Barbara, CA"
-  employer         : #"Red Brick University"
+  employer         : University of California, Santa Barbara
   uri              : # URL
-  email            : "danials2001@gmail.com" 
+  email            : "dalopez@ucsb.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
